@@ -36,10 +36,18 @@ Key data points analyzed include:
 - Phase of Flight
 
 ### Visualizations
-[Note: Insert your three key visualizations here with descriptions]
 
-![Alt text](assets/output.png)
 
+
+1. Aircraft Model vs Fatal Injuries
+    ![Alt text](assets/fatal_injuries.png)
+
+
+2. Engine Type Safety Comparison
+    ![Alt text](assets/engine_type.png)
+
+3.Weather Condition Impact on Accidents
+    ![Alt text](assets/weather_condition.png)
 
 
 ## Conclusion
