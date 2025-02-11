@@ -4,6 +4,7 @@
 This analysis project focuses on evaluating aviation safety data to help a company make informed decisions about aircraft purchases and operations. By analyzing historical accident data, we aim to identify the safest aircraft models, engine types, and operating conditions to minimize risks in aviation operations.
 
 
+
 ## Business Understanding
 ### Stakeholders
 - Company executives making aircraft purchase decisions
@@ -49,6 +50,9 @@ Key data points analyzed include:
 3.Weather Condition Impact on Accidents
     ![Alt text](assets/weather_condition.png)
 
+## Interactive DashBoard
+[DashBoard](https://public.tableau.com/views/AviationAccidentUpdatedDashboard/AviationAccidentDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 ## Conclusion
 ### Key Findings
@@ -76,3 +80,4 @@ Key data points analyzed include:
    - Prioritize aircraft with Geared Turbofan engines over reciprocating engines
    - Focus on engines with proven lower risk scores
    - Consider maintenance history and reliability in engine selection
+
