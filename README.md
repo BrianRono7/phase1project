@@ -38,7 +38,7 @@ Key data points analyzed include:
 ### Visualizations
 [Note: Insert your three key visualizations here with descriptions]
 
-![Alt text](image.png)
+![Alt text](assets/output.png)
 
 
 
