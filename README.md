@@ -51,7 +51,7 @@ Key data points analyzed include:
     ![Alt text](assets/weather_condition.png)
 
 ## Interactive DashBoard
-[ View the DashBoard](https://public.tableau.com/views/AviationAccidentUpdatedDashboard/AviationAccidentDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[ View the DashBoard](https://public.tableau.com/views/AviationAccidentUpdated2Dashboard/AviationAccidentDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ## Conclusion
